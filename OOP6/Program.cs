@@ -13,7 +13,7 @@ namespace OOP6
             Computer computer = new Computer("Denis");
             List<App> Arr = new List<App>()
             {
-                new App ("Nыаulд"),
+                new App ("Nыyfjhаulд"),
                 new App ("Second"),
                 new App("Third")
             };
