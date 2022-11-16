@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1" MembersFormat="NameAndType">
+  <Class Name="OOP3.App">
+    <Position X="5.5" Y="0.5" Width="2" />
+    <AssociationLine Name="Computer" Type="OOP3.Computer" ManuallyRouted="true">
+      <Path>
+        <Point X="5.5" Y="1.47" />
+        <Point X="4.651" Y="1.47" />
+        <Point X="4.651" Y="2.268" />
+        <Point X="3.62" Y="2.268" />
+        <Point X="3.62" Y="1.47" />
+        <Point X="3" Y="1.47" />
+      </Path>
+      <MemberNameLabel ManuallyPlaced="true">
+        <Position X="0.749" Y="-0.468" />
+      </MemberNameLabel>
+    </AssociationLine>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAEAAAAAAAAgAAAABAAAQAAAAAAAAA=</HashCode>
+      <FileName>App.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="Computer" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="OOP3.Computer">
+    <Position X="1" Y="0.5" Width="2" />
+    <AssociationLine Name="App" Type="OOP3.App" ManuallyRouted="true">
+      <Path>
+        <Point X="3" Y="0.922" />
+        <Point X="3.617" Y="0.922" />
+        <Point X="3.617" Y="0.138" />
+        <Point X="4.751" Y="0.138" />
+        <Point X="4.751" Y="0.922" />
+        <Point X="5.5" Y="0.922" />
+      </Path>
+      <MemberNameLabel ManuallyPlaced="true">
+        <Position X="0.978" Y="0.282" />
+      </MemberNameLabel>
+    </AssociationLine>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAEAAAAEAQAAAAAAAAAAAAAAAAgAAA=</HashCode>
+      <FileName>Computer.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="App" />
+    </ShowAsAssociation>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
