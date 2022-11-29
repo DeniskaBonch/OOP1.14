@@ -13,8 +13,8 @@ namespace OOP6
             Computer computer = new Computer("Denis");
             List<App> Arr = new List<App>()
             {
-                new App ("Nыyfjhаulд"),
-                new App ("Secoufkjgmnd"),
+                new App ("First"),
+                new App ("Second"),
                 new App("Third")
             };
             foreach (App el in Arr)
