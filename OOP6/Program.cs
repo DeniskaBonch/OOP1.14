@@ -14,7 +14,7 @@ namespace OOP6
             List<App> Arr = new List<App>()
             {
                 new App ("First"),
-                new App ("Secondof"),
+                new App ("Secondly"),
                 new App("Third")
             };
             foreach (App el in Arr)
