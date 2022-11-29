@@ -1,0 +1,8 @@
+C:\Users\denis\Source\Repos\DeniskaBonch\OOP1.14\OOP6\bin\Debug\OOP6.exe.config
+C:\Users\denis\Source\Repos\DeniskaBonch\OOP1.14\OOP6\bin\Debug\OOP6.exe
+C:\Users\denis\Source\Repos\DeniskaBonch\OOP1.14\OOP6\bin\Debug\OOP6.pdb
+C:\Users\denis\Source\Repos\DeniskaBonch\OOP1.14\OOP6\obj\Debug\OOP6.csproj.AssemblyReference.cache
+C:\Users\denis\Source\Repos\DeniskaBonch\OOP1.14\OOP6\obj\Debug\OOP6.csproj.SuggestedBindingRedirects.cache
+C:\Users\denis\Source\Repos\DeniskaBonch\OOP1.14\OOP6\obj\Debug\OOP6.csproj.CoreCompileInputs.cache
+C:\Users\denis\Source\Repos\DeniskaBonch\OOP1.14\OOP6\obj\Debug\OOP6.exe
+C:\Users\denis\Source\Repos\DeniskaBonch\OOP1.14\OOP6\obj\Debug\OOP6.pdb
